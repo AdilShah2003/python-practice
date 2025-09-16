@@ -1,5 +1,3 @@
-fruites = "banana"
-print(fruites)
-
-fruites.replace('a', '@')
-print(fruites)
+text = "banana"
+new_text = text.replace("a", "@")
+print(new_text)
