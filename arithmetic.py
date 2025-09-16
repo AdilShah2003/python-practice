@@ -1,0 +1,10 @@
+num1 = int(input('Enter your 1st number: '))
+num2 = int(input("Enter your 2nd number : "))
+
+print(f"Addition: {num1 + num2}")
+print(f"Different: {num1 - num2}")
+print(f"Multiplication: {num1 * num2}")
+print(f"Divition: {num1 / num2}")
+print(f"Modulor: {num1 % num2}")
+print(f"duble Divition: {num1 // num2}")
+print(f"exponetion: {num1 ** num2}")
